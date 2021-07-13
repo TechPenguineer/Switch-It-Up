@@ -1,2 +1,2 @@
 # Switch It Up
- A web based 2d platformer
+ A way to make games as a young developer
